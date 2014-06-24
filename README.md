@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Eyeonik/rails-travis-example.svg)](https://travis-ci.org/Eyeonik/rails-travis-example)
+[![Build Status](https://travis-ci.org/Eyeonik/rails-travis-example.svg?branch=master)](https://travis-ci.org/Eyeonik/rails-travis-example)
 
 # Rails Travis Example
 
